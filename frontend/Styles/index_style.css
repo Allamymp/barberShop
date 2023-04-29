@@ -52,3 +52,17 @@ a {
     align-items: center;
     padding: 10px;
 }
+
+ 
+#logo{
+    margin-left: 20px;
+  background-color: white;
+  border-radius: 50%;
+  background-size: contain;
+  background-image: url(../images/logo.png);
+  width: 70px;
+  height: 70px;
+  padding: 0px;
+  
+     
+}
