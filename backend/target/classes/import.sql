@@ -1,3 +1,4 @@
+
 INSERT INTO tb_employees(name,email,phone,function) VALUES ('Alek Sanford','Sadie_Cartwright@gmail.com',91-98955-4455,'MANAGER');
 INSERT INTO tb_employees(name,email,phone,function) VALUES ('Shaina Emard','Aurelia59@hotmail.com',81-99999-5544, 'BARBER');
 INSERT INTO tb_employees(name,email,phone,function) VALUES ('Pietro Schaefer','Adolfo_Greenholt30@yahoo.com',85-99785-4632, 'ATTENDANT');
