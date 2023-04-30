@@ -1,0 +1,113 @@
+body {
+
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    padding-top: 30px;
+
+}
+header {
+    font-size: 1.2rem;
+    font-family: Arial;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 2px 2px 0px #000;
+}
+.menu {
+    display: flex;
+}
+.menu li {
+    margin-left: 20px;
+}
+.menu li a {
+    display: block;
+    padding: 10px;
+}
+#logo{
+    margin-left: 20px;
+  background-color: white;
+  border-radius: 50%;
+  background-size: contain;
+  background-image: url(../images/logo.png);
+  width: 70px;
+  height: 70px;
+  padding: 0px;
+}
+.container{
+    
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+}
+.container p {
+    color: white;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-top: 10px;
+}
+
+ #haircut{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    border-radius: 10px;
+    width: 300px;
+    height: 500px;
+    margin-right: 100px;
+ }
+
+ #haircut img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+ }
+
+ #beard{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    border-radius: 10px;
+    width: 300px;
+    height: 500px;
+    margin-right: 100px;
+ }
+ #beard img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+ }
+
+ #relax{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    border-radius: 10px;
+    width: 300px;
+    height: 500px;
+    margin-right: 100px;
+ }
+ #relax img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+ }
+
+ 
